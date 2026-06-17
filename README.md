@@ -10,110 +10,90 @@
 
 <br/>
 
-<a href="mailto:aapka.email@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/aapka-linkedin-id" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://yourportfolio.com" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00F0FF" />
-</a>
-<a href="https://github.com/Ishwar-123" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<p align="center">
+  <a href="mailto:aapka.email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/aapka-linkedin-id" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://yourportfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00F0FF" alt="Portfolio"/>
+  </a>
+  <a href="https://github.com/Ishwar-123" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
+<img src="https://komarev.com/ghpvc/?username=Ishwar-123&style=for-the-badge&color=8E2DE2&label=PROFILE+VIEWS" />
+
+</div>
+
+<br/>
+<hr style="border: 1px solid #00F0FF; opacity: 0.5;" />
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/-%E2%9C%A8%20About%20Me-0D1117?style=for-the-badge&logoColor=00F0FF&labelColor=0D1117" />
+</div>
+
+<br/>
+
+> 🚀 **Full Stack & App Developer** passionate about engineering high-performance, scalable, and pixel-perfect digital products from concept to deployment.  
+> 💻 I specialize in building **end-to-end solutions** — from sleek, animated front-end interfaces to robust, secure back-end architectures and cross-platform mobile apps.  
+> ⚡ Strong believer in **clean code, performance optimization, and seamless UX** — every project I touch is built to scale and built to last.  
+> 🧠 Constantly exploring new tech — currently deep-diving into advanced **system design, cloud-native architecture, and AI-assisted workflows**.  
+> 🌐 Open to **freelance projects, full-time opportunities, and collaborations** on ambitious products.
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/-%E2%9A%94%EF%B8%8F%20Professional%20Experience-0D1117?style=for-the-badge&logoColor=00F0FF&labelColor=0D1117" />
+</div>
+
+<br/>
+
+- 🚀 **Web Development:** Designed and shipped full-stack applications using the MERN/MEAN stack and Next.js, deployed across Vercel, Render, Railway, and cPanel/Hostinger environments.
+- 📱 **Mobile Development:** Built cross-platform mobile applications with Flutter and React Native, alongside native development in Kotlin and Swift.
+- ⚡ **Backend Engineering:** Engineered RESTful & GraphQL APIs with Node.js, Express, Django, Flask, and Spring Boot — backed by MongoDB, PostgreSQL, MySQL, and Redis.
+- 🧠 **DevOps & Cloud:** Implemented CI/CD pipelines and containerized deployments using Docker, AWS, and Git-based workflows.
+- 🎯 **Team & Agile:** Collaborated in agile teams, writing clean, testable code while mentoring on best practices in performance and UI animation (GSAP, Framer Motion).
+
+<br/>
+<hr style="border: 1px solid #8E2DE2; opacity: 0.5;" />
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/-%F0%9F%9B%A0%EF%B8%8F%20Tech%20Arsenal-0D1117?style=for-the-badge&logoColor=00F0FF&labelColor=0D1117" />
+</div>
+
+<br/>
+
+<div align="center">
+
+**🎨 Frontend Development**<br/><br/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,tailwind,materialui,sass,bootstrap,jquery,angular,vue&perline=12" />
 <br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Ishwar-123&style=for-the-badge&color=00F0FF&label=PROFILE+VIEWS" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-  <img src="https://img.shields.io/badge/-About%20Me-0D1117?style=for-the-badge&logo=about-dot-me&logoColor=00F0FF&labelColor=0D1117" />
-
-</div>
-
-<br/>
-
-🚀 &nbsp; **Full Stack Developer & App Developer** passionate about engineering high-performance, scalable, and pixel-perfect digital products from concept to deployment.
-
-💻 &nbsp; I specialize in building **end-to-end solutions** — from sleek, animated front-end interfaces to robust, secure back-end architectures and cross-platform mobile applications.
-
-⚡ &nbsp; Strong believer in **clean code, performance optimization, and seamless UX** — every project I touch is built to scale and built to last.
-
-🧠 &nbsp; Constantly exploring new tech — currently deep-diving into advanced **system design, cloud-native architecture, and AI-assisted development workflows**.
-
-🌐 &nbsp; Open to **freelance projects, full-time opportunities, and collaborations** on ambitious products.
-
-<br/>
-
-<div align="center">
-
-  <img src="https://img.shields.io/badge/-Professional%20Experience-0D1117?style=for-the-badge&logo=briefcase&logoColor=00F0FF&labelColor=0D1117" />
-
-</div>
-
-<br/>
-
-🚀 &nbsp; Designed and shipped **full-stack web applications** using the MERN/MEAN stack and Next.js, deployed across Vercel, Render, Railway, and traditional cPanel/Hostinger environments.
-
-💻 &nbsp; Built **cross-platform mobile applications** with Flutter and React Native, alongside native development in Kotlin and Swift for performance-critical features.
-
-⚡ &nbsp; Engineered **RESTful & GraphQL APIs** with Node.js, Express, Django, Flask, and Spring Boot — backed by MongoDB, PostgreSQL, MySQL, and Redis for caching and real-time data.
-
-🧠 &nbsp; Implemented **CI/CD pipelines and containerized deployments** using Docker, AWS, and Git-based workflows to ensure reliable, repeatable releases.
-
-🎯 &nbsp; Collaborated in **agile teams**, writing clean, testable, well-documented code while mentoring on best practices in performance and UI animation (GSAP, Framer Motion).
-
-<br/>
-
-<div align="center">
-
-  <img src="https://img.shields.io/badge/-Tech%20Arsenal-0D1117?style=for-the-badge&logo=codeforces&logoColor=00F0FF&labelColor=0D1117" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<h4>🎨 Frontend Development</h4>
-
-<img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,jquery,react,angular,vue,nextjs,tailwind,materialui,sass&perline=12" />
-
-<br/><br/>
-
 <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
 <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
 
 <br/><br/>
 
-<h4>⚙️ Backend & Databases</h4>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,flask,java,spring,php,cpp,cs,mongodb,mysql,postgres,firebase,redis,graphql&perline=12" />
-
+**⚙️ Backend & Databases**<br/><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,flask,java,spring,cpp,cs,mongodb,mysql,postgres,firebase,redis,graphql&perline=12" />
 <br/><br/>
-
 <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=swagger&logoColor=white" />
 
 <br/><br/>
 
-<h4>📱 Mobile Development</h4>
-
+**📱 Mobile Development**<br/><br/>
 <img src="https://skillicons.dev/icons?i=flutter,reactnative,kotlin,swift,androidstudio&perline=12" />
 
 <br/><br/>
 
-<h4>🛠️ Tools, Cloud & DevOps</h4>
-
+**🛠️ Tools, Cloud & DevOps**<br/><br/>
 <img src="https://skillicons.dev/icons?i=git,github,docker,aws,postman,linux,vercel&perline=12" />
-
 <br/><br/>
-
 <img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white" />
 <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" />
 <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
@@ -122,58 +102,53 @@
 </div>
 
 <br/>
+<hr style="border: 1px solid #00F0FF; opacity: 0.5;" />
+<br/>
 
 <div align="center">
-
-  <img src="https://img.shields.io/badge/-GitHub%20Analytics-0D1117?style=for-the-badge&logo=googleanalytics&logoColor=00F0FF&labelColor=0D1117" />
-
+  <img src="https://img.shields.io/badge/-%F0%9F%93%8A%20GitHub%20Analytics-0D1117?style=for-the-badge&logoColor=00F0FF&labelColor=0D1117" />
 </div>
 
 <br/>
 
 <div align="center">
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Ishwar-123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=ffffff&include_all_commits=true&count_private=true" width="100%"/>
-    </td>
-    <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishwar-123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=ffffff" width="100%"/>
-    </td>
-  </tr>
-</table>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ishwar-123&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" width="65%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ishwar-123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=8E2DE2&text_color=ffffff&include_all_commits=true&count_private=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishwar-123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=ffffff" width="48%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ishwar-123&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F0FF&line=00F0FF&point=ffffff" width="95%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ishwar-123&theme=tokyonight&hide_border=true&background=0D1117&ring=8E2DE2&fire=00F0FF&currStreakLabel=00F0FF&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" width="60%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ishwar-123&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F0FF&line=8E2DE2&point=ffffff" width="95%"/>
 
 </div>
 
 <br/>
-
-<div align="center">
-
-  <img src="https://img.shields.io/badge/-Trophy%20Room-0D1117?style=for-the-badge&logo=akamai&logoColor=00F0FF&labelColor=0D1117" />
-
-  <br/><br/>
-
-  <img src="https://github-profile-trophy.vercel.app/?username=Ishwar-123&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" />
-
-</div>
-
+<hr style="border: 1px solid #8E2DE2; opacity: 0.5;" />
 <br/>
 
 <div align="center">
-
-  <img src="https://img.shields.io/badge/-Contribution%20Snake-0D1117?style=for-the-badge&logo=git&logoColor=00F0FF&labelColor=0D1117" />
-
+  <img src="https://img.shields.io/badge/-%F0%9F%8F%86%20Trophy%20Room-0D1117?style=for-the-badge&logoColor=00F0FF&labelColor=0D1117" />
   <br/><br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Ishwar-123&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" />
+</div>
 
-  <img src="https://raw.githubusercontent.com/Ishwar-123/Ishwar-123/output/github-contribution-grid-snake.svg" width="100%"/>
+<br/>
+<hr style="border: 1px solid #00F0FF; opacity: 0.5;" />
+<br/>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/-%F0%9F%90%8D%20Contribution%20Snake-0D1117?style=for-the-badge&logoColor=00F0FF&labelColor=0D1117" />
+  <br/><br/>
+  <!-- Note: Ensure the snake action is running to generate this SVG -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ishwar-123/Ishwar-123/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ishwar-123/Ishwar-123/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ishwar-123/Ishwar-123/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
 </div>
 
 <br/>
@@ -183,8 +158,8 @@
 
 <br/>
 
-1. Create a new repo with the **same name as your username** (e.g. `Ishwar-123/Ishwar-123`) — this is your GitHub profile repo.
-2. Inside it, create the path `.github/workflows/snake.yml` with the following content:
+1. Create a new repo with the **same name as your username** (e.g. `Ishwar-123/Ishwar-123`).
+2. Inside it, create `.github/workflows/snake.yml` with the following content:
 
 ```yaml
 name: Generate Snake Animation
@@ -215,3 +190,14 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+3. Go to **Actions** tab in your repository and manually run the workflow, or wait till midnight for the cron job.
+4. After the action successfully runs, make sure your image URL matches the `output` branch.
+
+</details>
+
+<br/>
+<div align="center">
+  <i>Let's connect and build something amazing together! 🚀</i>
+</div>
