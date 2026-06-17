@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:8E2DE2,50:5B2DE2,100:00F0FF&text=Hi%20There,%20I'm%20%5BYOUR%20NAME%5D%20%F0%9F%91%8B&fontColor=ffffff&fontSize=58&fontAlignY=35&animation=fadeIn&desc=Crafting%20Scalable%20%26%20Premium%20Digital%20Experiences&descAlignY=55&descSize=18&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:8E2DE2,50:5B2DE2,100:00F0FF&text=Hi%20There,%20I'm%20Ishwar%20%F0%9F%91%8B&fontColor=ffffff&fontSize=58&fontAlignY=35&animation=fadeIn&desc=Crafting%20Scalable%20%26%20Premium%20Digital%20Experiences&descAlignY=55&descSize=18&section=header" width="100%"/>
 
 <br/>
 
@@ -10,22 +10,22 @@
 
 <br/>
 
-<a href="mailto:YOUR_EMAIL@example.com">
+<a href="mailto:aapka.email@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+<a href="https://linkedin.com/in/aapka-linkedin-id" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://yourportfolio.com" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00F0FF" />
 </a>
-<a href="https://github.com/YOUR_USERNAME" target="_blank">
+<a href="https://github.com/Ishwar-123" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00F0FF&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=Ishwar-123&style=for-the-badge&color=00F0FF&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -136,19 +136,19 @@
 <table>
   <tr>
     <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=ffffff&include_all_commits=true&count_private=true" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=Ishwar-123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=ffffff&include_all_commits=true&count_private=true" width="100%"/>
     </td>
     <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=ffffff" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishwar-123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=ffffff" width="100%"/>
     </td>
   </tr>
 </table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" width="65%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ishwar-123&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" width="65%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F0FF&line=00F0FF&point=ffffff" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ishwar-123&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F0FF&line=00F0FF&point=ffffff" width="95%"/>
 
 </div>
 
@@ -160,7 +160,7 @@
 
   <br/><br/>
 
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ishwar-123&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" />
 
 </div>
 
@@ -172,7 +172,7 @@
 
   <br/><br/>
 
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Ishwar-123/Ishwar-123/output/github-contribution-grid-snake.svg" width="100%"/>
 
 </div>
 
@@ -183,7 +183,7 @@
 
 <br/>
 
-1. Create a new repo with the **same name as your username** (e.g. `YOUR_USERNAME/YOUR_USERNAME`) — this is your GitHub profile repo.
+1. Create a new repo with the **same name as your username** (e.g. `Ishwar-123/Ishwar-123`) — this is your GitHub profile repo.
 2. Inside it, create the path `.github/workflows/snake.yml` with the following content:
 
 ```yaml
@@ -205,7 +205,7 @@ jobs:
     steps:
       - uses: Platane/snk@v3
         with:
-          github_user_name: YOUR_USERNAME
+          github_user_name: Ishwar-123
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
@@ -215,19 +215,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-3. Commit and push — the action will run automatically and push the generated SVG to an `output` branch.
-4. The `<img>` tag above already points to that branch, so the snake will appear and refresh daily.
-
-</details>
-
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:00F0FF,100:8E2DE2&section=footer&animation=fadeIn" width="100%"/>
-
-<sub>⭐ If you found this profile inspiring, consider starring some of my repositories — thanks for stopping by!</sub>
-
-</div>
