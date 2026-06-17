@@ -34,11 +34,11 @@
 
 <br/>
 
-I am a passionate **Full Stack & App Developer** focused on engineering high-performance, scalable, and pixel-perfect digital products. I specialize in building end-to-end solutions — from sleek front-end interfaces to robust back-end architectures and cross-platform mobile apps.
+𝙸 𝚊𝚖 𝚊 𝚙𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 **𝙵𝚞𝚕𝚕 𝚂𝚝𝚊𝚌𝚔 & 𝙰𝚙𝚙 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛** 𝚏𝚘𝚌𝚞𝚜𝚎𝚍 𝚘𝚗 𝚎𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐 𝚑𝚒𝚐𝚑-𝚙𝚎𝚛𝚏𝚘𝚛𝚖𝚊𝚗𝚌𝚎, 𝚜𝚌𝚊𝚕𝚊𝚋𝚕𝚎, 𝚊𝚗𝚍 𝚙𝚒𝚡𝚎𝚕-𝚙𝚎𝚛𝚏𝚎𝚌𝚝 𝚍𝚒𝚐𝚒𝚝𝚊𝚕 𝚙𝚛𝚘𝚍𝚞𝚌𝚝𝚜. 𝙸 𝚜𝚙𝚎𝚌𝚒𝚊𝚕𝚒𝚣𝚎 𝚒𝚗 𝚋𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝚎𝚗𝚍-𝚝𝚘-𝚎𝚗𝚍 𝚜𝚘𝚕𝚞𝚝𝚒𝚘𝚗𝚜 — 𝚏𝚛𝚘𝚖 𝚜𝚕𝚎𝚎𝚔 𝚏𝚛𝚘𝚗𝚝-𝚎𝚗𝚍 𝚒𝚗𝚝𝚎𝚛𝚏𝚊𝚌𝚎𝚜 𝚝𝚘 𝚛𝚘𝚋𝚞𝚜𝚝 𝚋𝚊𝚌𝚔-𝚎𝚗𝚍 𝚊𝚛𝚌𝚑𝚒𝚝𝚎𝚌𝚝𝚞𝚛𝚎𝚜 𝚊𝚗𝚍 𝚌𝚛𝚘𝚜𝚜-𝚙𝚕𝚊𝚝𝚏𝚘𝚛𝚖 𝚖𝚘𝚋𝚒𝚕𝚎 𝚊𝚙𝚙𝚜.
 
-⚡ **Current Focus:** System Design, Cloud-Native Architecture, and AI-Assisted Workflows.  
-💻 **Code Aesthetics:** Strong believer in clean code, performance optimization, and seamless UX.  
-🤝 **Open For:** Freelance projects, full-time opportunities, and collaborations.
+⚡ **𝙲𝚞𝚛𝚛𝚎𝚗𝚝 𝙵𝚘𝚌𝚞𝚜:** 𝚂𝚢𝚜𝚝𝚎𝚖 𝙳𝚎𝚜𝚒𝚐𝚗, 𝙲𝚕𝚘𝚞𝚍-𝙽𝚊𝚝𝚒𝚟𝚎 𝙰𝚛𝚌𝚑𝚒𝚝𝚎𝚌𝚝𝚞𝚛𝚎, 𝚊𝚗𝚍 𝙰𝙸-𝙰𝚜𝚜𝚒𝚜𝚝𝚎𝚍 𝚆𝚘𝚛𝚔𝚏𝚕𝚘𝚠𝚜.  
+💻 **𝙲𝚘𝚍𝚎 𝙰𝚎𝚜𝚝𝚑𝚎𝚝𝚒𝚌𝚜:** 𝚂𝚝𝚛𝚘𝚗𝚐 𝚋𝚎𝚕𝚒𝚎𝚟𝚎𝚛 𝚒𝚗 𝚌𝚕𝚎𝚊𝚗 𝚌𝚘𝚍𝚎, 𝚙𝚎𝚛𝚏𝚘𝚛𝚖𝚊𝚗𝚌𝚎 𝚘𝚙𝚝𝚒𝚖𝚒𝚣𝚊𝚝𝚒𝚘𝚗, 𝚊𝚗𝚍 𝚜𝚎𝚊𝚖𝚕𝚎𝚜𝚜 𝚄𝚇.  
+🤝 **𝙾𝚙𝚎𝚗 𝙵𝚘𝚛:** 𝙵𝚛𝚎𝚎𝚕𝚊𝚗𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜, 𝚏𝚞𝚕𝚕-𝚝𝚒𝚖𝚎 𝚘𝚙𝚙𝚘𝚛𝚝𝚞𝚗𝚒𝚝𝚒𝚎𝚜, 𝚊𝚗𝚍 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚒𝚘𝚗𝚜.
 
 <br/>
 <hr style="border: 1px solid #8E2DE2; opacity: 0.5;" />
@@ -52,7 +52,7 @@ I am a passionate **Full Stack & App Developer** focused on engineering high-per
 
 <div align="center">
 
-**Frontend Development**<br/><br/>
+**𝙵𝚛𝚘𝚗𝚝𝚎𝚗𝚍 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝**<br/><br/>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
@@ -68,7 +68,7 @@ I am a passionate **Full Stack & App Developer** focused on engineering high-per
 
 <br/><br/>
 
-**Backend & Databases**<br/><br/>
+**𝙱𝚊𝚌𝚔𝚎𝚗𝚍 & 𝙳𝚊𝚝𝚊𝚋𝚊𝚜𝚎𝚜**<br/><br/>
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js"/>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
@@ -87,7 +87,7 @@ I am a passionate **Full Stack & App Developer** focused on engineering high-per
 
 <br/><br/>
 
-**Mobile Development**<br/><br/>
+**𝙼𝚘𝚋𝚒𝚕𝚎 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝**<br/><br/>
 <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter"/>
 <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native"/>
 <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
@@ -96,7 +96,7 @@ I am a passionate **Full Stack & App Developer** focused on engineering high-per
 
 <br/><br/>
 
-**Tools, Cloud & DevOps**<br/><br/>
+**𝚃𝚘𝚘𝚕𝚜, 𝙲𝚕𝚘𝚞𝚍 & 𝙳𝚎𝚟𝙾𝚙𝚜**<br/><br/>
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
@@ -159,5 +159,5 @@ I am a passionate **Full Stack & App Developer** focused on engineering high-per
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Ishwar-123&style=for-the-badge&color=8E2DE2&label=PROFILE+VIEWS" alt="Profile Views" />
   <br/><br/>
-  <i>Let's connect and build something amazing together!</i>
+  <𝚒>𝙻𝚎𝚝'𝚜 𝚌𝚘𝚗𝚗𝚎𝚌𝚝 𝚊𝚗𝚍 𝚋𝚞𝚒𝚕𝚍 𝚜𝚘𝚖𝚎𝚝𝚑𝚒𝚗𝚐 𝚊𝚖𝚊𝚣𝚒𝚗𝚐 𝚝𝚘𝚐𝚎𝚝𝚑𝚎𝚛!</𝚒>
 </div>
