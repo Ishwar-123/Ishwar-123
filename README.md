@@ -131,9 +131,9 @@
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-Trophy%20Room-0D1117?style=for-the-badge&logoColor=00F0FF&labelColor=0D1117" alt="Trophy Room"/>
+  <img src="https://img.shields.io/badge/-Trophy%20Room-0D1117?style=for-the-badge&color=0D1117" alt="Trophy Room"/>
   <br/><br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Ishwar-123&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Ishwar-123&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15&v=1" alt="Trophies"/>
 </div>
 
 <br/>
@@ -141,7 +141,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-Contribution%20Snake-0D1117?style=for-the-badge&logoColor=00F0FF&labelColor=0D1117" alt="Contribution Snake"/>
+  <img src="https://img.shields.io/badge/-Contribution%20Snake-0D1117?style=for-the-badge&color=0D1117" alt="Contribution Snake"/>
   <br/><br/>
   <!-- Note: Ensure the snake action is running to generate this SVG -->
   <picture>
