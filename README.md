@@ -27,9 +27,8 @@ admin@Ishwar-123:~$ ./start_profile.sh
   "status": "Engineering scalable digital products",
   "focus": ["System Design", "Cloud-Native Architecture", "AI-Assisted Workflows"],
   "contact": {
-    "email": "aapka.email@gmail.com",
-    "linkedin": "https://linkedin.com/in/aapka-linkedin-id",
-    "portfolio": "https://yourportfolio.com"
+    "email": "prajapatiishwar79@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/ishwar-prajapati/"
   }
 }
 ```
