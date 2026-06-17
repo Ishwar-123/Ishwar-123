@@ -113,7 +113,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ishwar-123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=8E2DE2&text_color=ffffff&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ishwar-123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=8E2DE2&text_color=ffffff" width="48%" alt="GitHub Stats"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishwar-123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=ffffff" width="48%" alt="Top Languages"/>
 
 <br/><br/>
