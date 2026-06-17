@@ -18,8 +18,8 @@ jobs:
         with:
           github_user_name: Ishwar-123
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=00F0FF&color_dots=#ebedf0,#d7cbf0,#a889e6,#7849d9,#8E2DE2
+            dist/github-contribution-grid-snake-dark.svg?color_bg=0D1117&color_snake=00F0FF&color_dots=#161B22,#3B1D61,#5A2492,#7A2AC3,#8E2DE2
       - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
