@@ -152,10 +152,6 @@ I am a passionate **Full Stack & App Developer** focused on engineering high-per
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ishwar-123/Ishwar-123/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ishwar-123/Ishwar-123/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
-
-  <br/><br/>
-
-  <img src="https://raw.githubusercontent.com/Ishwar-123/Ishwar-123/main/profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D Contribution Graph"/>
 </div>
 
 <br/>
