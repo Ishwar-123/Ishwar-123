@@ -131,9 +131,9 @@
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-Trophy%20Room-0D1117?style=for-the-badge&logo=akamai&logoColor=00F0FF&labelColor=0D1117" alt="Trophy Room"/>
+  <img src="https://img.shields.io/badge/-Trophy%20Room-0D1117?style=for-the-badge&logoColor=00F0FF&labelColor=0D1117" alt="Trophy Room"/>
   <br/><br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Ishwar-123&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Ishwar-123&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="Trophies"/>
 </div>
 
 <br/>
@@ -141,12 +141,12 @@
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-Contribution%20Snake-0D1117?style=for-the-badge&logo=git&logoColor=00F0FF&labelColor=0D1117" alt="Contribution Snake"/>
+  <img src="https://img.shields.io/badge/-Contribution%20Snake-0D1117?style=for-the-badge&logoColor=00F0FF&labelColor=0D1117" alt="Contribution Snake"/>
   <br/><br/>
   <!-- Note: Ensure the snake action is running to generate this SVG -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ishwar-123/Ishwar-123/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ishwar-123/Ishwar-123/output/github-contribution-grid-simple.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ishwar-123/Ishwar-123/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ishwar-123/Ishwar-123/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
 </div>
