@@ -124,7 +124,7 @@ I am a passionate **Full Stack & App Developer** focused on engineering high-per
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ishwar-123&theme=tokyonight&hide_border=true&background=0D1117&ring=8E2DE2&fire=00F0FF&currStreakLabel=00F0FF&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" width="60%" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=Ishwar-123&theme=tokyonight&hide_border=true&background=0D1117&ring=8E2DE2&fire=00F0FF&currStreakLabel=00F0FF&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&timezone=Asia/Kolkata" width="60%" alt="GitHub Streak"/>
 
 <br/><br/>
 
