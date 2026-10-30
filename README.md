@@ -119,8 +119,8 @@ I am a passionate **Full Stack & App Developer** focused on engineering high-per
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ishwar-123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=8E2DE2&text_color=ffffff" width="48%" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishwar-123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=ffffff" width="48%" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ishwar-123&show_icons=true&v=2026_sync&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=8E2DE2&text_color=ffffff" width="48%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishwar-123&v=2026_sync&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=ffffff" width="48%" alt="Top Languages"/>
 
 <br/><br/>
 
@@ -128,7 +128,7 @@ I am a passionate **Full Stack & App Developer** focused on engineering high-per
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ishwar-123&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F0FF&line=8E2DE2&point=ffffff" width="95%" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ishwar-123&v=2026_sync&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F0FF&line=8E2DE2&point=ffffff" width="95%" alt="Activity Graph"/>
 
 <br/><br/>
 
