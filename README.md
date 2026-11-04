@@ -95,7 +95,6 @@
   <img src="https://img.shields.io/badge/cPanel-161b22?style=for-the-badge&logo=cpanel&logoColor=FF6C2C" alt="cPanel" />
   <img src="https://img.shields.io/badge/Git-161b22?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Docker-161b22?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
   <img src="https://img.shields.io/badge/VS_Code-161b22?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" alt="VS Code" />
 </p>
 
