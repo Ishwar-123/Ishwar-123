@@ -41,16 +41,6 @@
 <img src="./assets/divider.svg" width="100%" alt="Divider" />
 <br/>
 
-## <img src="./assets/icons/flame.svg" width="18" height="18" style="vertical-align: middle;" /> Current Streak &amp; Coding Momentum
-
-<div align="center">
-  <img src="./assets/streak.svg" width="100%" alt="Ishwar's Current Streak &amp; Velocity" />
-</div>
-
-<br/>
-<img src="./assets/divider.svg" width="100%" alt="Divider" />
-<br/>
-
 ## <img src="./assets/icons/layers.svg" width="18" height="18" style="vertical-align: middle;" /> Technical Capabilities
 
 <div align="center">
