@@ -130,9 +130,17 @@
 <img src="./assets/divider.svg" width="100%" alt="Divider" />
 <br/>
 
-## <img src="./assets/icons/git-commit.svg" width="18" height="18" style="vertical-align: middle;" /> Contribution Activity
+## <img src="./assets/icons/git-commit.svg" width="18" height="18" style="vertical-align: middle;" /> 3D Contribution Skyline &amp; Activity
 
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-view.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg">
+    <img alt="Ishwar's 3D Contribution Skyline" src="./profile-3d-contrib/profile-night-view.svg" width="100%">
+  </picture>
+
+  <br/><br/>
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./assets/snake-light.svg">
