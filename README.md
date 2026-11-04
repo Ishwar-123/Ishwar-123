@@ -1,9 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=030712,0d1117,1e1b4b,312e81,0284c7&text=Ishwar%20Prajapati&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Full%20Stack%20%26%20Mobile%20App%20Developer&descAlignY=58&descSize=18&descColor=38bdf8&section=header" alt="Ishwar Prajapati Banner" width="100%"/>
+<img src="./assets/header.svg" width="100%" alt="Ishwar Prajapati - Full Stack & Mobile App Developer"/>
+
+<br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+%26+Mobile+App+Developer;Architecting+Scalable+Web+Applications;MERN+Stack+%7C+Modern+React+%26+Node.js;70%2B+Repositories+%26+Real-World+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+%26+Mobile+App+Developer;Architecting+Scalable+Web+Systems;MERN+Stack+%7C+Modern+React+%26+Node.js;70%2B+Repositories+%26+Production+Solutions" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -23,32 +25,38 @@
 </div>
 
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=38bdf8,818cf8" width="100%" />
+<img src="./assets/divider.svg" width="100%" alt="Divider" />
 <br/>
 
-<h2 align="center">⚡ About Me</h2>
+<h2 align="center">
+  <img src="./assets/icons/user.svg" width="20" height="20" alt="About" style="vertical-align: middle;" />
+  About Me
+</h2>
 
 <p align="center">
-  Hey there! I am <b>Ishwar Prajapati</b>, a passionate <b>Full Stack & Mobile App Developer</b> dedicated to engineering high-performance, responsive, and pixel-perfect digital solutions. With <b>70+ repositories</b> built across modern web and mobile ecosystems, I love transforming complex ideas into clean, maintainable, and scalable code.
+  Hi, I am <b>Ishwar Prajapati</b>, a <b>Full-Stack &amp; Mobile App Engineer</b> focused on engineering robust, scalable, and user-centric software solutions. With <b>70+ repositories</b> spanning modern web ecosystems, backend microservices, and cross-platform applications, I specialize in bridging technical architecture with elegant user interfaces.
 </p>
 
-- 🔭 **Current Focus:** High-performance web applications, scalable REST APIs & modern MERN stack ecosystems.
-- 💻 **Engineering Mindset:** Modular architecture, clean code standards, optimized runtime performance, and intuitive UX.
-- ⚡ **Core Strengths:** Full-Stack Architecture, Component-Driven Frontend, Database Modeling & State Management.
-- 🤝 **Open For:** Full-time software roles, freelance development, open-source initiatives, and innovative tech collaborations.
+- **Core Focus:** Modern Full-Stack web architecture, scalable RESTful APIs, and cross-platform mobile apps.
+- **Engineering Mindset:** Modular system design, component-driven development, and optimized runtime performance.
+- **Technical Competencies:** JavaScript / TypeScript, React, Next.js, Node.js, Express, MongoDB, and Tailwind CSS.
+- **Availability:** Open for software engineering roles, technical consultations, and high-impact contract projects.
 
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=818cf8,38bdf8" width="100%" />
+<img src="./assets/divider.svg" width="100%" alt="Divider" />
 <br/>
 
-<h2 align="center">🛠️ Tech Arsenal</h2>
+<h2 align="center">
+  <img src="./assets/icons/layers.svg" width="20" height="20" alt="Tech Stack" style="vertical-align: middle;" />
+  Technical Capabilities
+</h2>
 
 <div align="center">
 
 <table align="center" style="border: none; background: transparent;">
   <tr>
     <td align="center">
-      <b>Frontend & UI Engineering</b><br/><br/>
+      <b>Frontend &amp; UI Engineering</b><br/><br/>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,html,css,sass,bootstrap" alt="Frontend Skills" />
       </a>
@@ -56,7 +64,7 @@
   </tr>
   <tr>
     <td align="center">
-      <br/><b>Backend, APIs & Databases</b><br/><br/>
+      <br/><b>Backend, APIs &amp; Databases</b><br/><br/>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase,graphql" alt="Backend Skills" />
       </a>
@@ -64,7 +72,7 @@
   </tr>
   <tr>
     <td align="center">
-      <br/><b>Mobile & Core Languages</b><br/><br/>
+      <br/><b>Mobile &amp; Core Languages</b><br/><br/>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=flutter,react,cpp,java,python" alt="Mobile and Core Skills" />
       </a>
@@ -72,7 +80,7 @@
   </tr>
   <tr>
     <td align="center">
-      <br/><b>DevOps, Cloud & Developer Tools</b><br/><br/>
+      <br/><b>DevOps, Cloud &amp; Developer Tools</b><br/><br/>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=git,github,docker,aws,postman,linux,vscode,vercel" alt="DevOps and Tools" />
       </a>
@@ -83,10 +91,13 @@
 </div>
 
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=38bdf8,818cf8" width="100%" />
+<img src="./assets/divider.svg" width="100%" alt="Divider" />
 <br/>
 
-<h2 align="center">🚀 Featured Repositories</h2>
+<h2 align="center">
+  <img src="./assets/icons/git-repo.svg" width="20" height="20" alt="Repositories" style="vertical-align: middle;" />
+  Featured Repositories
+</h2>
 
 <div align="center">
   <a href="https://github.com/Ishwar-123/Music-Frontend">
@@ -98,10 +109,13 @@
 </div>
 
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=818cf8,38bdf8" width="100%" />
+<img src="./assets/divider.svg" width="100%" alt="Divider" />
 <br/>
 
-<h2 align="center">📊 GitHub Analytics</h2>
+<h2 align="center">
+  <img src="./assets/icons/bar-chart.svg" width="20" height="20" alt="Analytics" style="vertical-align: middle;" />
+  GitHub Analytics
+</h2>
 
 <div align="center">
 
@@ -119,10 +133,13 @@
 </div>
 
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=38bdf8,818cf8" width="100%" />
+<img src="./assets/divider.svg" width="100%" alt="Divider" />
 <br/>
 
-<h2 align="center">🐍 Contribution Journey</h2>
+<h2 align="center">
+  <img src="./assets/icons/git-commit.svg" width="20" height="20" alt="Activity" style="vertical-align: middle;" />
+  Contribution Activity
+</h2>
 
 <div align="center">
   <picture>
@@ -139,7 +156,5 @@
     <img src="https://komarev.com/ghpvc/?username=Ishwar-123&style=for-the-badge&color=38bdf8&labelColor=1e1b4b&label=PROFILE+VIEWS" alt="Profile Views" />
   </a>
   <br/><br/>
-  <i>💡 "Code is like humor. When you have to explain it, it’s bad." — Cory House</i>
-  <br/><br/>
-  <b>Let's build something exceptional together!</b>
+  <b>Engineering Scalable Software &amp; Digital Solutions</b>
 </div>
