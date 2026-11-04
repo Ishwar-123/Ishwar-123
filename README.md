@@ -104,6 +104,16 @@
 <img src="./assets/divider.svg" width="100%" alt="Divider" />
 <br/>
 
+## <img src="./assets/icons/trophy.svg" width="18" height="18" style="vertical-align: middle;" /> Verified Achievements &amp; Milestones
+
+<div align="center">
+  <img src="./assets/achievements.svg" width="100%" alt="Ishwar's Verified Achievements" />
+</div>
+
+<br/>
+<img src="./assets/divider.svg" width="100%" alt="Divider" />
+<br/>
+
 ## <img src="./assets/icons/bar-chart.svg" width="18" height="18" style="vertical-align: middle;" /> Developer Analytics &amp; Velocity
 
 <div align="center">

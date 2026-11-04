@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 150" width="100%" height="150" fill="none">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="achieveBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0e131f"/>
+      <stop offset="100%" stop-color="#161b22"/>
+    </linearGradient>
+
+    <!-- Gold Accent Gradient -->
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fbbf24"/>
+      <stop offset="100%" stop-color="#d97706"/>
+    </linearGradient>
+
+    <!-- Diamond Accent Gradient -->
+    <linearGradient id="diamondGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#818cf8"/>
+    </linearGradient>
+
+    <!-- Emerald Accent Gradient -->
+    <linearGradient id="emeraldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#34d399"/>
+      <stop offset="100%" stop-color="#059669"/>
+    </linearGradient>
+
+    <!-- Purple Accent Gradient -->
+    <linearGradient id="purpleGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#c084fc"/>
+      <stop offset="100%" stop-color="#9333ea"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    .font-sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
+    .font-mono { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace; }
+  </style>
+
+  <!-- Card Base -->
+  <rect width="850" height="150" rx="10" fill="url(#achieveBg)" stroke="#30363d" stroke-width="1.2"/>
+
+  <!-- Card Header -->
+  <g transform="translate(24, 20)">
+    <!-- Trophy Icon -->
+    <path d="M12 2C8 2 7 5 7 5H3C1.9 5 1 5.9 1 7C1 9.5 3 11 5 11.5C5.8 13 7.2 14 9 14.5V17H7C6.4 17 6 17.4 6 18C6 18.6 6.4 19 7 19H17C17.6 19 18 18.6 18 18C18 17.4 17.6 17 17 17H15V14.5C16.8 14 18.2 13 19 11.5C21 11 23 9.5 23 7C23 5.9 22.1 5 21 5H17C17 5 16 2 12 2ZM5 9.4C3.8 9.1 3 8.3 3 7H7V8.5C7 9.2 6.5 9.7 5.8 9.7C5.5 9.7 5.2 9.6 5 9.4ZM19 9.4C18.8 9.6 18.5 9.7 18.2 9.7C17.5 9.7 17 9.2 17 8.5V7H21C21 8.3 20.2 9.1 19 9.4Z" fill="url(#goldGrad)" transform="scale(0.85)"/>
+    <text x="26" y="14" class="font-mono" font-size="11" font-weight="700" fill="#f0f6fc" letter-spacing="1">ENGINEERING ACHIEVEMENTS &amp; MILESTONES</text>
+    <text x="798" y="14" class="font-mono" font-size="10" fill="#8b949e" text-anchor="end">TIER: ELITE BUILDER</text>
+  </g>
+
+  <!-- Divider -->
+  <line x1="24" y1="42" x2="826" y2="42" stroke="#21262d" stroke-width="1"/>
+
+  <!-- 4 Achievement Badges -->
+  <g transform="translate(24, 56)">
+    <!-- Achievement 1: Prolific Creator -->
+    <g transform="translate(0, 0)">
+      <rect width="190" height="74" rx="8" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+      <circle cx="28" cy="37" r="16" fill="#1e1b4b" stroke="url(#purpleGrad)" stroke-width="1.5"/>
+      <path d="M28 29L33 34L28 39L23 34L28 29ZM28 39L33 44L28 49L23 44L28 39Z" fill="url(#purpleGrad)" transform="scale(0.8) translate(7, 3)"/>
+      <text x="52" y="32" class="font-sans" font-size="12" font-weight="700" fill="#f0f6fc">Prolific Creator</text>
+      <text x="52" y="47" class="font-sans" font-size="10.5" fill="#8b949e">75+ Repositories</text>
+      <text x="52" y="60" class="font-mono" font-size="9" font-weight="600" fill="#c084fc">RANK S · TOP TIER</text>
+    </g>
+
+    <!-- Achievement 2: Daily Streak Master -->
+    <g transform="translate(202, 0)">
+      <rect width="190" height="74" rx="8" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+      <circle cx="28" cy="37" r="16" fill="#064e3b" stroke="url(#emeraldGrad)" stroke-width="1.5"/>
+      <path d="M28 28C28 28 31 32 31 35C31 37.8 28.8 40 26 40C23.2 40 21 37.8 21 35C21 32 23 29 25 28C25 30 26 31 27 31C28 31 28 29 28 28Z" fill="url(#emeraldGrad)" transform="scale(0.9) translate(3, 4)"/>
+      <text x="52" y="32" class="font-sans" font-size="12" font-weight="700" fill="#f0f6fc">Streak Master</text>
+      <text x="52" y="47" class="font-sans" font-size="10.5" fill="#8b949e">277 Days Unbroken</text>
+      <text x="52" y="60" class="font-mono" font-size="9" font-weight="600" fill="#34d399">RANK A · ACTIVE DAILY</text>
+    </g>
+
+    <!-- Achievement 3: Code Contributor -->
+    <g transform="translate(404, 0)">
+      <rect width="190" height="74" rx="8" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+      <circle cx="28" cy="37" r="16" fill="#0c4a6e" stroke="url(#diamondGrad)" stroke-width="1.5"/>
+      <path d="M28 27L35 34L28 41L21 34L28 27Z" fill="url(#diamondGrad)" transform="scale(0.8) translate(7, 8)"/>
+      <text x="52" y="32" class="font-sans" font-size="12" font-weight="700" fill="#f0f6fc">Commit Veteran</text>
+      <text x="52" y="47" class="font-sans" font-size="10.5" fill="#8b949e">3,660+ Contributions</text>
+      <text x="52" y="60" class="font-mono" font-size="9" font-weight="600" fill="#38bdf8">RANK A · HEAVY COMMIT</text>
+    </g>
+
+    <!-- Achievement 4: Polyglot Engineer -->
+    <g transform="translate(606, 0)">
+      <rect width="190" height="74" rx="8" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+      <circle cx="28" cy="37" r="16" fill="#451a03" stroke="url(#goldGrad)" stroke-width="1.5"/>
+      <path d="M28 27L31 33L37 34L33 38L34 44L28 41L22 44L23 38L19 34L25 33L28 27Z" fill="url(#goldGrad)" transform="scale(0.8) translate(7, 8)"/>
+      <text x="52" y="32" class="font-sans" font-size="12" font-weight="700" fill="#f0f6fc">Master Polyglot</text>
+      <text x="52" y="47" class="font-sans" font-size="10.5" fill="#8b949e">6+ Languages &amp; Stacks</text>
+      <text x="52" y="60" class="font-mono" font-size="9" font-weight="600" fill="#fbbf24">RANK S · MULTI-STACK</text>
+    </g>
+  </g>
+</svg>
