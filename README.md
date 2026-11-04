@@ -95,36 +95,23 @@
 <br/>
 
 <h2 align="center">
-  <img src="./assets/icons/git-repo.svg" width="20" height="20" alt="Repositories" style="vertical-align: middle;" />
-  Featured Repositories
-</h2>
-
-<div align="center">
-  <a href="https://github.com/Ishwar-123/Music-Frontend">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Ishwar-123&repo=Music-Frontend&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=818cf8&text_color=cbd5e1" width="48%" alt="Music-Frontend"/>
-  </a>
-  <a href="https://github.com/Ishwar-123/E-commerce-Frontend">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Ishwar-123&repo=E-commerce-Frontend&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=818cf8&text_color=cbd5e1" width="48%" alt="E-commerce-Frontend"/>
-  </a>
-</div>
-
-<br/>
-<img src="./assets/divider.svg" width="100%" alt="Divider" />
-<br/>
-
-<h2 align="center">
   <img src="./assets/icons/bar-chart.svg" width="20" height="20" alt="Analytics" style="vertical-align: middle;" />
-  GitHub Analytics
+  GitHub Analytics &amp; Velocity
 </h2>
 
 <div align="center">
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/Total_Contributions-3%2C660%2B-38bdf8?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117" alt="Total Contributions" />
+    <img src="https://img.shields.io/badge/Current_Streak-277_Days-10b981?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=0d1117" alt="Current Streak" />
+    <img src="https://img.shields.io/badge/Longest_Streak-277_Days-818cf8?style=for-the-badge&logo=star&logoColor=white&labelColor=0d1117" alt="Longest Streak" />
+    <img src="https://img.shields.io/badge/Public_Repos-75%2B-38bdf8?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Public Repos" />
+  </p>
+
+  <br/>
 
   <img src="https://github-stats-extended.vercel.app/api?username=Ishwar-123&show_icons=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=818cf8&text_color=cbd5e1" width="48%" alt="Ishwar's GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com/?user=Ishwar-123&hide_border=true&background=0d1117&ring=818cf8&fire=38bdf8&currStreakLabel=38bdf8&sideNums=cbd5e1&sideLabels=94a3b8&dates=64748b" width="48%" alt="Ishwar's GitHub Streak"/>
-
-  <br/><br/>
-
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ishwar-123&layout=compact&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=cbd5e1" width="60%" alt="Ishwar's Top Languages"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ishwar-123&layout=compact&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=cbd5e1" width="48%" alt="Ishwar's Top Languages"/>
 
   <br/><br/>
 
