@@ -74,6 +74,7 @@
 
 <p align="center">
   <b>Mobile &amp; Core Languages</b><br/><br/>
+  <img src="https://img.shields.io/badge/Kotlin-161b22?style=for-the-badge&logo=kotlin&logoColor=7F52FF" alt="Kotlin" />
   <img src="https://img.shields.io/badge/Flutter-161b22?style=for-the-badge&logo=flutter&logoColor=02569B" alt="Flutter" />
   <img src="https://img.shields.io/badge/React_Native-161b22?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
   <img src="https://img.shields.io/badge/Python-161b22?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
