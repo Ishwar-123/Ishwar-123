@@ -1,0 +1,122 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 220" width="100%" height="220" fill="none">
+  <defs>
+    <!-- Card Background Gradient -->
+    <linearGradient id="cardBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0f1d"/>
+      <stop offset="50%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#060911"/>
+    </linearGradient>
+
+    <!-- Glowing Border Gradient -->
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.8"/>
+      <stop offset="50%" stop-color="#818cf8" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0.7"/>
+    </linearGradient>
+
+    <!-- Radial Glows -->
+    <radialGradient id="glowLeft" cx="10%" cy="20%" r="50%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowRight" cx="90%" cy="80%" r="50%">
+      <stop offset="0%" stop-color="#818cf8" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#818cf8" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <style>
+    .font-sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
+    .font-mono { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace; }
+    .label { font-size: 10.5px; font-weight: 600; fill: #94a3b8; letter-spacing: 0.8px; }
+    .value { font-size: 28px; font-weight: 800; fill: #ffffff; letter-spacing: -0.5px; }
+    .subtext { font-size: 11px; font-weight: 400; fill: #64748b; }
+  </style>
+
+  <!-- Card Base -->
+  <rect width="850" height="220" rx="12" fill="url(#cardBg)"/>
+  <rect width="850" height="220" rx="12" fill="url(#glowLeft)"/>
+  <rect width="850" height="220" rx="12" fill="url(#glowRight)"/>
+  <rect width="850" height="220" rx="12" fill="none" stroke="url(#borderGrad)" stroke-width="1.2"/>
+
+  <!-- Top Navigation / Header Bar -->
+  <g transform="translate(28, 24)">
+    <circle cx="6" cy="6" r="4" fill="#10b981">
+      <animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="18" y="10" class="font-mono" font-size="11" font-weight="700" fill="#38bdf8" letter-spacing="1.2">ACTIVITY &amp; DEVELOPER METRICS</text>
+    <text x="794" y="10" class="font-mono" font-size="10" fill="#64748b" text-anchor="end">75+ REPOSITORIES · 2026</text>
+  </g>
+
+  <!-- Horizontal Divider -->
+  <line x1="28" y1="46" x2="822" y2="46" stroke="#1e293b" stroke-width="1"/>
+
+  <!-- 4 Metrics Columns -->
+  <g transform="translate(28, 62)">
+    <!-- Metric 1: Total Contributions -->
+    <g transform="translate(0, 0)">
+      <text x="0" y="14" class="font-sans label">TOTAL CONTRIBUTIONS</text>
+      <text x="0" y="48" class="font-sans value" fill="#38bdf8">3,660+</text>
+      <text x="0" y="68" class="font-sans subtext">Lifetime Commits &amp; Activity</text>
+    </g>
+
+    <!-- Vertical Divider 1 -->
+    <line x1="190" y1="6" x2="190" y2="72" stroke="#1e293b" stroke-width="1"/>
+
+    <!-- Metric 2: Current Coding Streak -->
+    <g transform="translate(210, 0)">
+      <text x="0" y="14" class="font-sans label">CURRENT STREAK</text>
+      <text x="0" y="48" class="font-sans value" fill="#10b981">277 Days</text>
+      <text x="0" y="68" class="font-sans subtext">Active Daily Coding (Feb–Nov)</text>
+    </g>
+
+    <!-- Vertical Divider 2 -->
+    <line x1="400" y1="6" x2="400" y2="72" stroke="#1e293b" stroke-width="1"/>
+
+    <!-- Metric 3: Public Repositories -->
+    <g transform="translate(420, 0)">
+      <text x="0" y="14" class="font-sans label">PUBLIC REPOSITORIES</text>
+      <text x="0" y="48" class="font-sans value" fill="#818cf8">75+ Repos</text>
+      <text x="0" y="68" class="font-sans subtext">Web, Mobile &amp; API Systems</text>
+    </g>
+
+    <!-- Vertical Divider 3 -->
+    <line x1="610" y1="6" x2="610" y2="72" stroke="#1e293b" stroke-width="1"/>
+
+    <!-- Metric 4: Longest Streak -->
+    <g transform="translate(630, 0)">
+      <text x="0" y="14" class="font-sans label">LONGEST RECORD</text>
+      <text x="0" y="48" class="font-sans value" fill="#f59e0b">277 Days</text>
+      <text x="0" y="68" class="font-sans subtext">Unbroken Consistency</text>
+    </g>
+  </g>
+
+  <!-- Bottom Section: Language & Tech Distribution -->
+  <g transform="translate(28, 156)">
+    <!-- Multi-Segment Progress Bar -->
+    <rect x="0" y="0" width="794" height="8" rx="4" fill="#1e293b"/>
+    <rect x="0" y="0" width="318" height="8" rx="4" fill="#f7df1e"/>
+    <rect x="318" y="0" width="200" height="8" fill="#38bdf8"/>
+    <rect x="518" y="0" width="160" height="8" fill="#22c55e"/>
+    <rect x="678" y="0" width="116" height="8" rx="4" fill="#a855f7"/>
+
+    <!-- Legend -->
+    <g transform="translate(0, 26)">
+      <!-- Item 1: JavaScript -->
+      <circle cx="5" cy="5" r="4.5" fill="#f7df1e"/>
+      <text x="16" y="9" class="font-mono" font-size="11" font-weight="600" fill="#cbd5e1">JavaScript 40%</text>
+
+      <!-- Item 2: React & Next.js -->
+      <circle cx="165" cy="5" r="4.5" fill="#38bdf8"/>
+      <text x="176" y="9" class="font-mono" font-size="11" font-weight="600" fill="#cbd5e1">React &amp; Next.js 25%</text>
+
+      <!-- Item 3: Node.js & APIs -->
+      <circle cx="345" cy="5" r="4.5" fill="#22c55e"/>
+      <text x="356" y="9" class="font-mono" font-size="11" font-weight="600" fill="#cbd5e1">Node.js &amp; APIs 20%</text>
+
+      <!-- Item 4: Modern CSS & UI -->
+      <circle cx="515" cy="5" r="4.5" fill="#a855f7"/>
+      <text x="526" y="9" class="font-mono" font-size="11" font-weight="600" fill="#cbd5e1">HTML / CSS / Tailwind 15%</text>
+    </g>
+  </g>
+</svg>

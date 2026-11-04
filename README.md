@@ -41,7 +41,7 @@
 <img src="./assets/divider.svg" width="100%" alt="Divider" />
 <br/>
 
-## <img src="./assets/icons/flame.svg" width="18" height="18" style="vertical-align: middle;" /> Current Streak &amp; Coding Velocity
+## <img src="./assets/icons/flame.svg" width="18" height="18" style="vertical-align: middle;" /> Current Streak &amp; Coding Momentum
 
 <div align="center">
   <img src="./assets/streak.svg" width="100%" alt="Ishwar's Current Streak &amp; Velocity" />
@@ -55,40 +55,39 @@
 
 <div align="center">
 
-<table align="center" style="border: none; background: transparent;">
-  <tr>
-    <td align="center">
-      <b>Frontend &amp; UI Engineering</b><br/><br/>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,html,css,sass,bootstrap&theme=dark" alt="Frontend Skills" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <br/><b>Backend, APIs &amp; Databases</b><br/><br/>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase,graphql&theme=dark" alt="Backend Skills" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <br/><b>Mobile &amp; Core Languages</b><br/><br/>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=flutter,react,cpp,java,python&theme=dark" alt="Mobile and Core Skills" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <br/><b>DevOps, Cloud &amp; Developer Tools</b><br/><br/>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,github,docker,aws,postman,linux,vscode,vercel&theme=dark" alt="DevOps and Tools" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <b>Frontend &amp; UI Architecture</b><br/><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,html,css,sass,bootstrap&theme=dark" alt="Frontend Skills" />
+  </a>
+</p>
+
+<br/>
+
+<p align="center">
+  <b>Backend, APIs &amp; Databases</b><br/><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase,graphql&theme=dark" alt="Backend Skills" />
+  </a>
+</p>
+
+<br/>
+
+<p align="center">
+  <b>Mobile &amp; Core Languages</b><br/><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,react,cpp,java,python&theme=dark" alt="Mobile and Core Skills" />
+  </a>
+</p>
+
+<br/>
+
+<p align="center">
+  <b>DevOps, Cloud &amp; Developer Tools</b><br/><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,aws,postman,linux,vscode,vercel&theme=dark" alt="DevOps and Tools" />
+  </a>
+</p>
 
 </div>
 
@@ -96,16 +95,15 @@
 <img src="./assets/divider.svg" width="100%" alt="Divider" />
 <br/>
 
-## <img src="./assets/icons/bar-chart.svg" width="18" height="18" style="vertical-align: middle;" /> GitHub Analytics &amp; Velocity
+## <img src="./assets/icons/bar-chart.svg" width="18" height="18" style="vertical-align: middle;" /> Developer Analytics &amp; Velocity
 
 <div align="center">
 
-  <img src="https://github-stats-extended.vercel.app/api?username=Ishwar-123&show_icons=true&bg_color=161b22&border_color=30363d&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9" width="48%" alt="Ishwar's GitHub Stats"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ishwar-123&layout=compact&bg_color=161b22&border_color=30363d&title_color=58a6ff&text_color=c9d1d9" width="48%" alt="Ishwar's Top Languages"/>
+  <img src="./assets/stats-card.svg" width="100%" alt="Ishwar's Developer Stats &amp; Velocity" />
 
   <br/><br/>
 
-  <img src="./github-metrics.svg" width="95%" alt="Ishwar's Comprehensive Metrics"/>
+  <img src="./github-metrics.svg" width="95%" alt="Ishwar's Comprehensive Metrics Calendar" />
 
 </div>
 
