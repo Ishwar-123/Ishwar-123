@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Ishwar Prajapati - Full Stack & Mobile App Developer"/>
+<img src="./assets/header.svg" width="100%" alt="Ishwar Prajapati - GitHub Profile Header"/>
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+%26+Mobile+App+Developer;Architecting+Scalable+Web+Systems;MERN+Stack+%7C+Modern+React+%26+Node.js;70%2B+Repositories+%26+Production+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+%26+Mobile+App+Engineer;Architecting+Scalable+Web+Systems;Modern+MERN+Stack+%7C+Next.js+%7C+React;70%2B+Public+Repositories+Built" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -28,28 +28,30 @@
 <img src="./assets/divider.svg" width="100%" alt="Divider" />
 <br/>
 
-<h2 align="center">
-  <img src="./assets/icons/user.svg" width="20" height="20" alt="About" style="vertical-align: middle;" />
-  About Me
-</h2>
+## <img src="./assets/icons/user.svg" width="18" height="18" style="vertical-align: middle;" /> About Me
 
-<p align="center">
-  Hi, I am <b>Ishwar Prajapati</b>, a <b>Full-Stack &amp; Mobile App Engineer</b> focused on engineering robust, scalable, and user-centric software solutions. With <b>70+ repositories</b> spanning modern web ecosystems, backend microservices, and cross-platform applications, I specialize in bridging technical architecture with elegant user interfaces.
-</p>
+> **Full-Stack &amp; Mobile App Engineer** specializing in engineering scalable digital solutions, responsive frontend architectures, and high-throughput backend services. With over **70+ repositories** on GitHub, I build production-grade web and mobile applications with clean architecture and performance-first execution.
 
-- **Core Focus:** Modern Full-Stack web architecture, scalable RESTful APIs, and cross-platform mobile apps.
-- **Engineering Mindset:** Modular system design, component-driven development, and optimized runtime performance.
-- **Technical Competencies:** JavaScript / TypeScript, React, Next.js, Node.js, Express, MongoDB, and Tailwind CSS.
+- **System Architecture:** Component-driven frontend execution, modular API design, and distributed full-stack workflows.
+- **Core Ecosystem:** JavaScript / TypeScript, React, Next.js, Node.js, Express, MongoDB, and Tailwind CSS.
+- **Engineering Standards:** Clean code practices, optimized runtime performance, and intuitive UX design.
 - **Availability:** Open for software engineering roles, technical consultations, and high-impact contract projects.
 
 <br/>
 <img src="./assets/divider.svg" width="100%" alt="Divider" />
 <br/>
 
-<h2 align="center">
-  <img src="./assets/icons/layers.svg" width="20" height="20" alt="Tech Stack" style="vertical-align: middle;" />
-  Technical Capabilities
-</h2>
+## <img src="./assets/icons/flame.svg" width="18" height="18" style="vertical-align: middle;" /> Current Streak &amp; Coding Velocity
+
+<div align="center">
+  <img src="./assets/streak.svg" width="100%" alt="Ishwar's Current Streak &amp; Velocity" />
+</div>
+
+<br/>
+<img src="./assets/divider.svg" width="100%" alt="Divider" />
+<br/>
+
+## <img src="./assets/icons/layers.svg" width="18" height="18" style="vertical-align: middle;" /> Technical Capabilities
 
 <div align="center">
 
@@ -58,7 +60,7 @@
     <td align="center">
       <b>Frontend &amp; UI Engineering</b><br/><br/>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,html,css,sass,bootstrap" alt="Frontend Skills" />
+        <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,html,css,sass,bootstrap&theme=dark" alt="Frontend Skills" />
       </a>
     </td>
   </tr>
@@ -66,7 +68,7 @@
     <td align="center">
       <br/><b>Backend, APIs &amp; Databases</b><br/><br/>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase,graphql" alt="Backend Skills" />
+        <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase,graphql&theme=dark" alt="Backend Skills" />
       </a>
     </td>
   </tr>
@@ -74,7 +76,7 @@
     <td align="center">
       <br/><b>Mobile &amp; Core Languages</b><br/><br/>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=flutter,react,cpp,java,python" alt="Mobile and Core Skills" />
+        <img src="https://skillicons.dev/icons?i=flutter,react,cpp,java,python&theme=dark" alt="Mobile and Core Skills" />
       </a>
     </td>
   </tr>
@@ -82,7 +84,7 @@
     <td align="center">
       <br/><b>DevOps, Cloud &amp; Developer Tools</b><br/><br/>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,github,docker,aws,postman,linux,vscode,vercel" alt="DevOps and Tools" />
+        <img src="https://skillicons.dev/icons?i=git,github,docker,aws,postman,linux,vscode,vercel&theme=dark" alt="DevOps and Tools" />
       </a>
     </td>
   </tr>
@@ -94,24 +96,12 @@
 <img src="./assets/divider.svg" width="100%" alt="Divider" />
 <br/>
 
-<h2 align="center">
-  <img src="./assets/icons/bar-chart.svg" width="20" height="20" alt="Analytics" style="vertical-align: middle;" />
-  GitHub Analytics &amp; Velocity
-</h2>
+## <img src="./assets/icons/bar-chart.svg" width="18" height="18" style="vertical-align: middle;" /> GitHub Analytics &amp; Velocity
 
 <div align="center">
 
-  <p align="center">
-    <img src="https://img.shields.io/badge/Total_Contributions-3%2C660%2B-38bdf8?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117" alt="Total Contributions" />
-    <img src="https://img.shields.io/badge/Current_Streak-277_Days-10b981?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=0d1117" alt="Current Streak" />
-    <img src="https://img.shields.io/badge/Longest_Streak-277_Days-818cf8?style=for-the-badge&logo=star&logoColor=white&labelColor=0d1117" alt="Longest Streak" />
-    <img src="https://img.shields.io/badge/Public_Repos-75%2B-38bdf8?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Public Repos" />
-  </p>
-
-  <br/>
-
-  <img src="https://github-stats-extended.vercel.app/api?username=Ishwar-123&show_icons=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=818cf8&text_color=cbd5e1" width="48%" alt="Ishwar's GitHub Stats"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ishwar-123&layout=compact&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=cbd5e1" width="48%" alt="Ishwar's Top Languages"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=Ishwar-123&show_icons=true&bg_color=161b22&border_color=30363d&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9" width="48%" alt="Ishwar's GitHub Stats"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ishwar-123&layout=compact&bg_color=161b22&border_color=30363d&title_color=58a6ff&text_color=c9d1d9" width="48%" alt="Ishwar's Top Languages"/>
 
   <br/><br/>
 
@@ -123,10 +113,7 @@
 <img src="./assets/divider.svg" width="100%" alt="Divider" />
 <br/>
 
-<h2 align="center">
-  <img src="./assets/icons/git-commit.svg" width="20" height="20" alt="Activity" style="vertical-align: middle;" />
-  Contribution Activity
-</h2>
+## <img src="./assets/icons/git-commit.svg" width="18" height="18" style="vertical-align: middle;" /> Contribution Activity
 
 <div align="center">
   <picture>
@@ -140,7 +127,7 @@
 
 <div align="center">
   <a href="https://komarev.com/ghpvc/?username=Ishwar-123">
-    <img src="https://komarev.com/ghpvc/?username=Ishwar-123&style=for-the-badge&color=38bdf8&labelColor=1e1b4b&label=PROFILE+VIEWS" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=Ishwar-123&style=for-the-badge&color=58a6ff&labelColor=161b22&label=PROFILE+VIEWS" alt="Profile Views" />
   </a>
   <br/><br/>
   <b>Engineering Scalable Software &amp; Digital Solutions</b>

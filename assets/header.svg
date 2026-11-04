@@ -1,111 +1,58 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 220" width="100%" height="220" fill="none">
-  <defs>
-    <!-- Background Gradient -->
-    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0a0f1d"/>
-      <stop offset="50%" stop-color="#0d1117"/>
-      <stop offset="100%" stop-color="#070a12"/>
-    </linearGradient>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 200" width="100%" height="200" fill="none">
+  <!-- GitHub Dark Canvas Default #0d1117 -->
+  <rect width="850" height="200" rx="10" fill="#0d1117"/>
+  
+  <!-- GitHub Dark Canvas Sub / Panel #161b22 with #30363d border -->
+  <rect x="1" y="1" width="848" height="198" rx="9" fill="#161b22" stroke="#30363d" stroke-width="1.2"/>
 
-    <!-- Border Gradient -->
-    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.6"/>
-      <stop offset="50%" stop-color="#818cf8" stop-opacity="0.2"/>
-      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0.4"/>
-    </linearGradient>
+  <!-- Terminal Window Bar Header -->
+  <path d="M1 10C1 5.02944 5.02944 1 10 1H840C844.971 1 849 5.02944 849 10V36H1V10Z" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+  <circle cx="22" cy="18" r="5" fill="#f85149"/>
+  <circle cx="38" cy="18" r="5" fill="#d29922"/>
+  <circle cx="54" cy="18" r="5" fill="#3fb950"/>
+  <text x="74" y="22" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, monospace" font-size="12" fill="#8b949e">ishwar-prajapati@github: ~ (main)</text>
 
-    <!-- Title Gradient -->
-    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#ffffff"/>
-      <stop offset="60%" stop-color="#ffffff"/>
-      <stop offset="100%" stop-color="#38bdf8"/>
-    </linearGradient>
+  <!-- Left Side: Terminal Command & Identity -->
+  <g transform="translate(36, 62)">
+    <text x="0" y="0" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, monospace" font-size="13" fill="#58a6ff">$</text>
+    <text x="16" y="0" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, monospace" font-size="13" fill="#c9d1d9">whoami</text>
+    
+    <text x="0" y="34" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="34" font-weight="700" fill="#f0f6fc">
+      Ishwar Prajapati
+    </text>
+    
+    <text x="0" y="62" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#8b949e">
+      Full-Stack &amp; Mobile App Engineer · 70+ Repositories · Scalable Architectures
+    </text>
 
-    <!-- Glow Filter -->
-    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="60" result="blur"/>
-    </filter>
+    <!-- GitHub Primer Badges / Pills -->
+    <g transform="translate(0, 84)">
+      <!-- Pill 1: MERN Stack -->
+      <rect x="0" y="0" width="110" height="24" rx="12" fill="#21262d" stroke="#30363d" stroke-width="1"/>
+      <circle cx="12" cy="12" r="3.5" fill="#58a6ff"/>
+      <text x="24" y="16" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11" font-weight="600" fill="#c9d1d9">MERN Stack</text>
 
-    <!-- Subtle Grid Pattern -->
-    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
-      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#ffffff" stroke-opacity="0.03" stroke-width="1"/>
-    </pattern>
-  </defs>
+      <!-- Pill 2: Next.js & React -->
+      <rect x="118" y="0" width="124" height="24" rx="12" fill="#21262d" stroke="#30363d" stroke-width="1"/>
+      <circle cx="130" cy="12" r="3.5" fill="#3fb950"/>
+      <text x="142" y="16" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11" font-weight="600" fill="#c9d1d9">Next.js &amp; React</text>
 
-  <style>
-    .mono { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
-    .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; }
-    .tag { fill: #0f172a; stroke: #1e293b; stroke-width: 1; rx: 6; }
-    .tag-text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 11px; font-weight: 500; fill: #94a3b8; }
-  </style>
+      <!-- Pill 3: Mobile Apps -->
+      <rect x="250" y="0" width="138" height="24" rx="12" fill="#21262d" stroke="#30363d" stroke-width="1"/>
+      <circle cx="262" cy="12" r="3.5" fill="#a371f7"/>
+      <text x="274" y="16" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11" font-weight="600" fill="#c9d1d9">Flutter &amp; RN</text>
 
-  <!-- Background Base with Rounded Border -->
-  <rect width="850" height="220" rx="14" fill="url(#bgGrad)"/>
-  <rect width="850" height="220" rx="14" fill="url(#grid)"/>
-
-  <!-- Ambient Glow Effects -->
-  <circle cx="100" cy="40" r="90" fill="#38bdf8" opacity="0.12" filter="url(#glow)"/>
-  <circle cx="750" cy="180" r="100" fill="#818cf8" opacity="0.12" filter="url(#glow)"/>
-
-  <!-- Card Border -->
-  <rect width="850" height="220" rx="14" fill="none" stroke="url(#borderGrad)" stroke-width="1.2"/>
-
-  <!-- Top Status Badge -->
-  <g transform="translate(48, 30)">
-    <rect width="260" height="24" rx="12" fill="#0f172a" stroke="#1e293b" stroke-width="1"/>
-    <circle cx="14" cy="12" r="4" fill="#10b981">
-      <animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite"/>
-    </circle>
-    <text x="26" y="16" class="mono" font-size="10.5" font-weight="600" fill="#38bdf8" letter-spacing="1">FULL-STACK &amp; APP DEVELOPER</text>
-  </g>
-
-  <!-- Main Name -->
-  <text x="48" y="104" class="sans" font-size="42" font-weight="800" fill="url(#titleGrad)" letter-spacing="-0.5">
-    Ishwar Prajapati
-  </text>
-
-  <!-- Subtitle / Value Proposition -->
-  <text x="48" y="136" class="sans" font-size="15" font-weight="400" fill="#94a3b8" letter-spacing="0.2">
-    Engineering scalable web applications, cross-platform mobile apps &amp; high-performance systems.
-  </text>
-
-  <!-- Pill Tags / Technical Competencies (No emojis, clean vector paths) -->
-  <g transform="translate(48, 164)">
-    <!-- Tag 1: MERN & Next.js -->
-    <g transform="translate(0, 0)">
-      <rect width="138" height="26" rx="6" fill="#0f172a" stroke="#1e293b" stroke-width="1"/>
-      <path d="M12 17L8 13L12 9M18 9L22 13L18 17" stroke="#38bdf8" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-      <text x="28" y="17" class="tag-text">MERN &amp; Next.js</text>
-    </g>
-
-    <!-- Tag 2: Mobile Apps -->
-    <g transform="translate(148, 0)">
-      <rect width="134" height="26" rx="6" fill="#0f172a" stroke="#1e293b" stroke-width="1"/>
-      <rect x="10" y="6" width="10" height="14" rx="2" stroke="#818cf8" stroke-width="1.3" fill="none"/>
-      <circle cx="15" cy="17" r="0.75" fill="#818cf8"/>
-      <text x="26" y="17" class="tag-text">Mobile Apps</text>
-    </g>
-
-    <!-- Tag 3: REST & GraphQL -->
-    <g transform="translate(292, 0)">
-      <rect width="144" height="26" rx="6" fill="#0f172a" stroke="#1e293b" stroke-width="1"/>
-      <path d="M8 8H20M8 13H20M8 18H15" stroke="#38bdf8" stroke-width="1.4" stroke-linecap="round"/>
-      <text x="26" y="17" class="tag-text">REST &amp; GraphQL</text>
-    </g>
-
-    <!-- Tag 4: System Architecture -->
-    <g transform="translate(446, 0)">
-      <rect width="168" height="26" rx="6" fill="#0f172a" stroke="#1e293b" stroke-width="1"/>
-      <path d="M8 7L15 3L22 7L15 11L8 7ZM8 12L15 16L22 12M8 17L15 21L22 17" stroke="#818cf8" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
-      <text x="28" y="17" class="tag-text">System Architecture</text>
+      <!-- Pill 4: Cloud & APIs -->
+      <rect x="396" y="0" width="128" height="24" rx="12" fill="#21262d" stroke="#30363d" stroke-width="1"/>
+      <circle cx="408" cy="12" r="3.5" fill="#d29922"/>
+      <text x="420" y="16" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11" font-weight="600" fill="#c9d1d9">REST &amp; Cloud</text>
     </g>
   </g>
 
-  <!-- Right Decorative Terminal Icon Graphic -->
-  <g transform="translate(730, 65)" opacity="0.85">
-    <rect width="70" height="70" rx="14" fill="#0f172a" stroke="#1e293b" stroke-width="1.2"/>
-    <path d="M22 26L32 35L22 44" stroke="#38bdf8" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
-    <line x1="36" y1="44" x2="48" y2="44" stroke="#818cf8" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Right Side: GitHub Octicon Terminal Emblem -->
+  <g transform="translate(710, 68)">
+    <rect width="90" height="90" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+    <path d="M26 32L40 45L26 58" stroke="#58a6ff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="46" y1="58" x2="64" y2="58" stroke="#3fb950" stroke-width="3" stroke-linecap="round"/>
   </g>
 </svg>
-
