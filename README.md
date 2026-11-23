@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+%26+Mobile+App+Engineer;Architecting+Scalable+Web+Systems;Modern+MERN+Stack+%7C+Next.js+%7C+React;70%2B+Public+Repositories+Built" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+%26+Mobile+App+Engineer;Architecting+Scalable+Web+Systems;Modern+MERN+Stack+%7C+Next.js+%7C+React;45%2B+Production+Repositories+Built" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -30,7 +30,7 @@
 
 ## <img src="./assets/icons/user.svg" width="18" height="18" style="vertical-align: middle;" /> About Me
 
-> **Full-Stack &amp; Mobile App Engineer** specializing in engineering scalable digital solutions, responsive frontend architectures, and high-throughput backend services. With over **70+ repositories** on GitHub, I build production-grade web and mobile applications with clean architecture and performance-first execution.
+> **Full-Stack &amp; Mobile App Engineer** specializing in engineering scalable digital solutions, responsive frontend architectures, and high-throughput backend services. With over **45+ production-grade repositories** on GitHub, I build scalable web and mobile applications with clean architecture and performance-first execution.
 
 - **System Architecture:** Component-driven frontend execution, modular API design, and distributed full-stack workflows.
 - **Core Ecosystem:** JavaScript / TypeScript, React, Next.js, Node.js, Express, MongoDB, and Tailwind CSS.
@@ -142,9 +142,9 @@
   <br/><br/>
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/snake-light.svg">
-    <img alt="Ishwar's Contribution Snake" src="./assets/snake-dark.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ishwar-123/Ishwar-123/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ishwar-123/Ishwar-123/output/github-contribution-grid-snake.svg">
+    <img alt="Ishwar's Contribution Snake" src="https://raw.githubusercontent.com/Ishwar-123/Ishwar-123/output/github-contribution-grid-snake-dark.svg" width="100%">
   </picture>
 </div>
 
