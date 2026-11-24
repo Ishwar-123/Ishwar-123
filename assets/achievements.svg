@@ -68,7 +68,7 @@
       <circle cx="28" cy="37" r="16" fill="#064e3b" stroke="url(#emeraldGrad)" stroke-width="1.5"/>
       <path d="M28 28C28 28 31 32 31 35C31 37.8 28.8 40 26 40C23.2 40 21 37.8 21 35C21 32 23 29 25 28C25 30 26 31 27 31C28 31 28 29 28 28Z" fill="url(#emeraldGrad)" transform="scale(0.9) translate(3, 4)"/>
       <text x="52" y="32" class="font-sans" font-size="12" font-weight="700" fill="#f0f6fc">Streak Master</text>
-      <text x="52" y="47" class="font-sans" font-size="10.5" fill="#8b949e">296 Days Unbroken</text>
+      <text x="52" y="47" class="font-sans" font-size="10.5" fill="#8b949e">297 Days Unbroken</text>
       <text x="52" y="60" class="font-mono" font-size="9" font-weight="600" fill="#34d399">RANK A · ACTIVE DAILY</text>
     </g>
 
@@ -78,7 +78,7 @@
       <circle cx="28" cy="37" r="16" fill="#0c4a6e" stroke="url(#diamondGrad)" stroke-width="1.5"/>
       <path d="M28 27L35 34L28 41L21 34L28 27Z" fill="url(#diamondGrad)" transform="scale(0.8) translate(7, 8)"/>
       <text x="52" y="32" class="font-sans" font-size="12" font-weight="700" fill="#f0f6fc">Commit Veteran</text>
-      <text x="52" y="47" class="font-sans" font-size="10.5" fill="#8b949e">4,009+ Contributions</text>
+      <text x="52" y="47" class="font-sans" font-size="10.5" fill="#8b949e">4,016+ Contributions</text>
       <text x="52" y="60" class="font-mono" font-size="9" font-weight="600" fill="#38bdf8">RANK A · HEAVY COMMIT</text>
     </g>
 
