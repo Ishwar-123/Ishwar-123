@@ -56,7 +56,7 @@
     <!-- Metric 1: Total Contributions -->
     <g transform="translate(0, 0)">
       <text x="0" y="14" class="font-sans label">TOTAL CONTRIBUTIONS</text>
-      <text x="0" y="48" class="font-sans value" fill="#38bdf8">4,088+</text>
+      <text x="0" y="48" class="font-sans value" fill="#38bdf8">4,106+</text>
       <text x="0" y="68" class="font-sans subtext">Lifetime Commits &amp; Activity</text>
     </g>
 
@@ -66,7 +66,7 @@
     <!-- Metric 2: Current Coding Streak -->
     <g transform="translate(210, 0)">
       <text x="0" y="14" class="font-sans label">CURRENT STREAK</text>
-      <text x="0" y="48" class="font-sans value" fill="#10b981">299 Days</text>
+      <text x="0" y="48" class="font-sans value" fill="#10b981">300 Days</text>
       <text x="0" y="68" class="font-sans subtext">Active Daily Coding (Feb–Nov)</text>
     </g>
 
@@ -86,7 +86,7 @@
     <!-- Metric 4: Longest Streak -->
     <g transform="translate(630, 0)">
       <text x="0" y="14" class="font-sans label">LONGEST RECORD</text>
-      <text x="0" y="48" class="font-sans value" fill="#f59e0b">299 Days</text>
+      <text x="0" y="48" class="font-sans value" fill="#f59e0b">300 Days</text>
       <text x="0" y="68" class="font-sans subtext">Unbroken Consistency</text>
     </g>
   </g>
