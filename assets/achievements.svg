@@ -78,7 +78,7 @@
       <circle cx="28" cy="37" r="16" fill="#0c4a6e" stroke="url(#diamondGrad)" stroke-width="1.5"/>
       <path d="M28 27L35 34L28 41L21 34L28 27Z" fill="url(#diamondGrad)" transform="scale(0.8) translate(7, 8)"/>
       <text x="52" y="32" class="font-sans" font-size="12" font-weight="700" fill="#f0f6fc">Commit Veteran</text>
-      <text x="52" y="47" class="font-sans" font-size="10.5" fill="#8b949e">4,106+ Contributions</text>
+      <text x="52" y="47" class="font-sans" font-size="10.5" fill="#8b949e">4,109+ Contributions</text>
       <text x="52" y="60" class="font-mono" font-size="9" font-weight="600" fill="#38bdf8">RANK A · HEAVY COMMIT</text>
     </g>
 
